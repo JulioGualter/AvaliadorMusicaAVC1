@@ -1,0 +1,12 @@
+Lucas;19;lucas@diaz.com;123456
+lucasdm;19;lucas@diaz.com;lucas
+ikediaz123;99;ike@gmail.com;12345
+ikediaz;20;henrique08br@outlook.com;sexo123
+adm1;20;adm11@.com;123456
+adm1;20;adm@.com;adm123
+Henrique;20;henriqued@ot.com;123456
+julio;19;julio@unisa.br;julio123
+keny;28;julio@unisa.com;123456
+Kenyi;18;km@gmail.com;12345
+Kenyi Manuel;21;Kenyi@gmail.com;123456
+julio;20;jmulio@fdghthft.com;123456
